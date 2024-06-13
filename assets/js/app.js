@@ -47,7 +47,7 @@ function cadastrar_veiculo(event) {
         .then(data => {
             console.log('Dados enviados com sucesso:', data);
             alert("Veiculo cadastrado com sucesso!");
-            window.location.href = '../index.html';
+            window.location.href = '../inicio.html';
         })
         .catch(error => {
             console.error('Erro ao enviar dados:', error);

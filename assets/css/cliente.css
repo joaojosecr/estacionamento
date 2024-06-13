@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  .table-container {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #4c88ae;
+    color: #fff;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: white;
+  }
+  
+  tbody tr:nth-child(odd) {
+    background-color: gray;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  select,
+  button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Ajusta o box model para incluir o padding no cálculo da largura */
+  }
+  
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  input[type="tel"]:focus,
+  select:focus,
+  button:focus {
+    outline: none;
+    border-color: blue;
+    box-shadow: 0 0 5px blue;
+  }
+  
+  button {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    margin-right: 5px; /* Adiciona uma margem à direita para separar os botões */
+  }
+  
+  button:hover {
+    background-color: darkblue;
+  }
+  

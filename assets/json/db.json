@@ -1,8 +1,8 @@
 {
   "veiculos": [
     {
-      "data_entrada": "02/06/2024",
-      "hora_entrada": "17:03:13",
+      "data_entrada": "13/06/2024",
+      "hora_entrada": "14:46:08",
       "data_saida": null,
       "hora_saida": null,
       "placa": "AAA1111",
@@ -12,81 +12,73 @@
       "id": 1
     },
     {
-      "data_entrada": "02/06/2024",
-      "hora_entrada": "17:29:20",
+      "data_entrada": "13/06/2024",
+      "hora_entrada": "14:46:17",
       "data_saida": null,
       "hora_saida": null,
-      "placa": "asda",
-      "tipo_veiculo": "",
+      "placa": "BBB2222",
+      "tipo_veiculo": "carro",
       "id_cliente": "1",
-      "tipo_cliente": "",
+      "tipo_cliente": "cliente",
       "id": 2
     },
     {
-      "data_entrada": "05/06/2024",
-      "hora_entrada": "22:34:34",
+      "data_entrada": "13/06/2024",
+      "hora_entrada": "14:46:24",
       "data_saida": null,
       "hora_saida": null,
-      "placa": "123",
+      "placa": "CCC3333",
       "tipo_veiculo": "carro",
       "id_cliente": "1",
-      "tipo_cliente": "desconhecido",
+      "tipo_cliente": "cliente",
       "id": 3
     },
     {
-      "data_entrada": "05/06/2024",
-      "hora_entrada": "22:36:35",
-      "data_saida": null,
-      "hora_saida": null,
-      "placa": "FNI6I50",
-      "tipo_veiculo": "carro",
-      "id_cliente": "1",
-      "tipo_cliente": "cliente",
-      "id": 4
-    },
-    {
-      "data_entrada": "05/06/2024",
-      "hora_entrada": "22:36:50",
-      "data_saida": null,
-      "hora_saida": null,
-      "placa": "FNI6I50",
-      "tipo_veiculo": "carro",
-      "id_cliente": "1",
-      "tipo_cliente": "cliente",
-      "id": 5
-    },
-    {
-      "data_entrada": "05/06/2024",
-      "hora_entrada": "22:37:12",
-      "data_saida": null,
-      "hora_saida": null,
-      "placa": "TESTE",
+      "data_entrada": "13/06/2024",
+      "hora_entrada": "14:46:35",
+      "data_saida": "13/06/2024",
+      "hora_saida": "15:16:03",
+      "placa": "DDD4444",
       "tipo_veiculo": "carro",
       "id_cliente": "1",
       "tipo_cliente": "desconhecido",
-      "id": 6
+      "id": 4,
+      "valor": 22
     },
     {
-      "data_entrada": "08/06/2024",
-      "hora_entrada": "16:14:36",
+      "data_entrada": "13/06/2024",
+      "hora_entrada": "11:46:43",
+      "data_saida": "13/06/2024",
+      "hora_saida": "15:07:29",
+      "placa": "EEE5555",
+      "tipo_veiculo": "moto",
+      "id_cliente": "1",
+      "tipo_cliente": "mensalista",
+      "id": 5,
+      "valor": 59
+    },
+    {
+      "data_entrada": "13/06/2024",
+      "hora_entrada": "14:47:49",
+      "data_saida": "13/06/2024",
+      "hora_saida": "14:48:22",
+      "placa": "FNI6I50",
+      "tipo_veiculo": "carro",
+      "id_cliente": "1",
+      "tipo_cliente": "desconhecido",
+      "id": 6,
+      "valor": 22
+    },
+    {
+      "data_entrada": "13/06/2024",
+      "hora_entrada": "15:15:43",
       "data_saida": null,
       "hora_saida": null,
-      "placa": "asdad",
-      "tipo_veiculo": "carro",
+      "placa": "RRR8888",
+      "tipo_veiculo": "moto",
       "id_cliente": "1",
       "tipo_cliente": "desconhecido",
       "id": 7
-    },
-    {
-      "data_entrada": "08/06/2024",
-      "hora_entrada": "16:16:42",
-      "data_saida": null,
-      "hora_saida": null,
-      "placa": "asdads",
-      "tipo_veiculo": "carro",
-      "id_cliente": "1",
-      "tipo_cliente": "cliente",
-      "id": 8
     }
   ]
 }
